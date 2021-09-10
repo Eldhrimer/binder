@@ -7,3 +7,4 @@ executable(
         dependency('gtk+-3.0')
     ],
     install: true
+)

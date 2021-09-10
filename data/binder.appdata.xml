@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Eldhrimer <eldhrimer@pm.me> -->
+<component type="desktop">
+  <id>com.github.eldhrimer.binder</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Binder</name>
+  <summary>Your comprehensive document manager</summary>
+  <description>
+    <p>Binder makes it easy to manage and find documents scattered across your home folder</p>
+    <p>With Binder you can:</p>
+    <p><ul>Access your most recent documents</ul></p>
+    <p><ul>Display documents by type, creation date, author or other meaningful metadata</ul></p>
+    <p><ul>Quickly search your documents by metadata</ul></p>
+    <p><ul>Create new documents from pre existing templates</ul></p>
+    <p><ul>Access your most recent documents</ul></p>
+    <p><ul>Automatically generate a folder structure and neatly organize your files</ul></p>
+    <p><ul>Access diferent versions of your documents to keep track of recent changes</ul></p>
+  </description>
+  <custom>
+    <value key="x-appcenter-color-primary">#3689e6</value>
+    <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+  </custom>
+</component>
