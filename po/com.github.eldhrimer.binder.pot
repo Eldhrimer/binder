@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.eldhrimer.binder package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.eldhrimer.binder\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-10 15:32-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: data/binder.desktop.in:3 data/binder.appdata.xml.in:6
+msgid "Binder"
+msgstr ""
+
+#: data/binder.desktop.in:4
+msgid "Document Manager"
+msgstr ""
+
+#: data/binder.desktop.in:5
+msgid "View and manage your documents"
+msgstr ""
+
+#: data/binder.desktop.in:8
+msgid "com.github.eldhrimer.binder"
+msgstr ""
+
+#: data/binder.desktop.in:11
+msgid "Binder;Document;Documents;Manager;PDF;"
+msgstr ""
+
+#: data/binder.appdata.xml.in:7
+msgid "Your comprehensive document manager"
+msgstr ""
+
+#: data/binder.appdata.xml.in:9
+msgid ""
+"Binder makes it easy to manage and find documents scattered across your home "
+"folder"
+msgstr ""
+
+#: data/binder.appdata.xml.in:10
+msgid "With Binder you can:"
+msgstr ""
+
+#: data/binder.appdata.xml.in:11 data/binder.appdata.xml.in:15
+msgid "Access your most recent documents"
+msgstr ""
+
+#: data/binder.appdata.xml.in:12
+msgid ""
+"Display documents by type, creation date, author or other meaningful metadata"
+msgstr ""
+
+#: data/binder.appdata.xml.in:13
+msgid "Quickly search your documents by metadata"
+msgstr ""
+
+#: data/binder.appdata.xml.in:14
+msgid "Create new documents from pre existing templates"
+msgstr ""
+
+#: data/binder.appdata.xml.in:16
+msgid ""
+"Automatically generate a folder structure and neatly organize your files"
+msgstr ""
+
+#: data/binder.appdata.xml.in:17
+msgid ""
+"Access diferent versions of your documents to keep track of recent changes"
+msgstr ""

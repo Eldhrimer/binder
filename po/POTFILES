@@ -1,0 +1,5 @@
+src/Application.vala
+src/widgets/Window.vala
+src/Main.vala
+data/binder.desktop.in
+data/binder.appdata.xml.in
