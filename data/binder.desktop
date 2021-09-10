@@ -2,7 +2,7 @@
 Name=Binder
 GenericName=Document Manager
 Comment=View and manage your documents
-Categories=Utility;Education;Office;
+Categories=Office;Viewer;WordProcessor;Spreadsheet;Presentation;Filesystem;FileManager;
 Exec=com.github.eldhrimer.binder
 Icon=com.github.eldhrimer.binder
 Terminal=false
