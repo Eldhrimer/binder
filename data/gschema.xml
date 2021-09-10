@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE schemalist SYSTEM "gio_gschema.dtd" >
+<schemalist>
+    <schema path="/com/github/eldhrimer/binder/" id="com.github.eldhrimer.binder">
+        <key name="pos-x" type="i">
+            <default>360</default>
+            <summary>Horizontal position</summary>
+            <description>The saved horizontal position of the window</description>
+        </key>
+
+        <key name="pos-y" type="i">
+            <default>360</default>
+            <summary>Vertical position</summary>
+            <description>The saved vertical position of the window</description>
+        </key>
+
+        <key name="window-width" type="i">
+            <default>600</default>
+            <summary>Window Width</summary>
+            <description>The saved window width of the window</description>
+        </key>
+
+        <key name="window-height" type="i">
+            <default>400</default>
+            <summary>Window Height</summary>
+            <description>The saved window height of the window</description>
+        </key>
+    </schema>
+</schemalist>

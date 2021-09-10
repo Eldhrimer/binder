@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Binder
+GenericName=Document Manager
+Comment=A document manager and viewer
+Categories=Utility;Education;Office;
+Exec=com.github.eldhrimer.binder
+Icon=com.github.eldhrimer.binder
+Terminal=false
+Type=Application
+Keywords=Binder;Document;Documents;Manager;
