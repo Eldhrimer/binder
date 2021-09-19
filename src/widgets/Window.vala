@@ -1,4 +1,4 @@
-public class Binder.Window : Gtk.ApplicationWindow {
+public class Binder.Window : Hdy.ApplicationWindow {
 	public GLib.Settings settings;
 
 	public Window (Application app) {
@@ -8,7 +8,6 @@ public class Binder.Window : Gtk.ApplicationWindow {
 	}
 
 	construct {
-	 	title = "Binder";
 	 	window_position = Gtk.WindowPosition.CENTER;
 
 	 	settings = new GLib.Settings ("com.github.eldhrimer.binder");
@@ -19,7 +18,12 @@ public class Binder.Window : Gtk.ApplicationWindow {
 			return before_destroy ();
 		});
 
+
 	 	show_all ();
+	}
+
+	private int sort_function () {
+		return 1;
 	}
 
 	public bool before_destroy () {
